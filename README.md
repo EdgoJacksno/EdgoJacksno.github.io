@@ -15,7 +15,7 @@ Comandos Stata e conjuntos de dados para cursos/workshops
 
     <p>Clique no link abaixo para baixar o arquivo:</p>
     
-    <a href="https://github.com/EdgoJacksno/EdgoJacksno.github.io/blob/a5f09ea31267b8269a5ed32b7416ab268be67d68/Atividade%201.dta" download>Atividade 1</a>
+    <a href="https://github.com/EdgoJacksno/EdgoJacksno.github.io/Atividade 1.dta" download>Atividade 1</a>
 
 </body>
 </html>

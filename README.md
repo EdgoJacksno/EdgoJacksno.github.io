@@ -2,6 +2,7 @@
 Comandos Stata e conjuntos de dados para cursos/workshops
 
 # Conjunto de dados
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
